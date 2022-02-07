@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308381738574",
+    "project_id": "rkapp-b2b36",
+    "storage_bucket": "rkapp-b2b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308381738574:android:ee106c9f476552e1f9851f",
+        "android_client_info": {
+          "package_name": "com.example.rkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308381738574-5ebnh8sk3fr4t4mheopkrunt8piqlrf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rkapp",
+            "certificate_hash": "e13a5827098793aefac0b19b2e6cc3553326b74f"
+          }
+        },
+        {
+          "client_id": "308381738574-kg32cdlkvq3npfs9k3unq2bod96eqtkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2UgcfjB1cT_DCySCpJx3_SZWCn_k5gNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308381738574-kg32cdlkvq3npfs9k3unq2bod96eqtkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
